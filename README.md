@@ -1,4 +1,4 @@
-# 🌆 City Explorer App
+# list_layout_implicit_content
 
 An Android app built using Java that displays a list of cities and allows users to explore them on Google Maps via implicit intents. Each city has a detail screen with an image, name, and a map-opening button.
 
