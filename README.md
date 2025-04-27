@@ -39,4 +39,4 @@ https://github.com/user-attachments/assets/d842d86d-a797-48dd-9b3a-2d13daafa0e3
 1. Clone the repository:
 
 ```bash
-git 
+git https://github.com/ManiyaBhati/list_layout_implicit_content.git
